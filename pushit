@@ -1,0 +1,11 @@
+#!/bin/csh 
+
+git pull 
+
+git add pushit 
+git add README.md
+
+git commit -m "add files" 
+git push origin main
+
+
